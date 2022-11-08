@@ -1,0 +1,8 @@
+// IDE config
+.idea
+
+// Project build
+build
+
+// Dependencies
+node_modules
